@@ -1,0 +1,11 @@
+# Sample Authors
+# Remove file or replace with your own
+
+Emma Cavan:
+  name: Emma Cavan
+  #picture: /images/bio-photo-2.jpg
+  twitter: "@emma_cavan"
+  links:
+    - title: Twitter
+      url: https://twitter.com/emma_cavan
+      icon: fab fa-twitter-square

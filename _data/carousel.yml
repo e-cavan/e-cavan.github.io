@@ -1,0 +1,12 @@
+- selector: example_slider
+  captions: true
+  images:
+    - src: /Images/Logo.png
+      alt: image one
+    - src: /Images/profile_pic.jpg
+      alt: image two
+
+  settings:
+    height: "'auto'"
+    effect: "'fade'"
+
