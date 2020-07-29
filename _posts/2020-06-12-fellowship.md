@@ -8,6 +8,6 @@ image:
 entries_layout: grid
 ---
 
-Today Emma started her new position as an Imperial College Research Fellow. This is a 4-year post where Emma will work on numerical modelling the impacts of climate change through changing nutrients to the Antarctic krill and the Southern Ocean krill fishery. You can read more about the fellowship on the [Research](http://127.0.0.1:4000/Research/) page.
+Today Emma started her new position as an Imperial College Research Fellow. This is a 4-year post where Emma will work on numerical modelling the impacts of climate change through changing nutrients to the Antarctic krill and the Southern Ocean krill fishery. You can read more about the fellowship on the [Research](https://e-cavan.github.io/Research/) page.
 
 
