@@ -12,6 +12,12 @@ Henley, S., **Cavan, E**., Fawcett, S. et al. 2020. Changing biogeochemistry of 
 
 Giering, S. L., **Cavan, E**., Basedow, et al. 2020. Sinking organic particles: what can we learn from optical devices? [_Frontiers in Marine Science_, RT: We Shed Light: Optical Insights into the     Biological Carbon Pump](https://www.frontiersin.org/articles/10.3389/fmars.2019.00834/full)  
 
+### Accepted
+
+Brasier, M., McCormack, S., Bax, N., Caccavo, J., **Cavan., E**. et al. Overcoming the obstacles faced by early career researchers in marine science: lessons from the Marine Ecosystem Assessment of the Southern Ocean. _Frontiers in Marine Science_
+
+Belcher, A., **Cavan, E.**, Tarling, G. Why krill swarms are important to the carbon cycle and global climate. _Frontiers for young minds_.
+
 ## 2019 
 
 **Cavan, E**., Belcher, A., Atkinson, A., Boyd, P., Hill, S., Kawaguchi, S., McCormack, S., Meyer, B., Nicol, S., Ratnarajah, L, Schmidt, K., Steinberg, D. & Tarling, G. 2019. The role of krill in biogeochemical cycles. [_Nature Communications_ 10(1)](https://www.nature.com/articles/s41467-019-12668-7) [**Top 50 read articles in Nature Communications Earth Sciences 2019**](https://www.nature.com/collections/jbfeiegiec)
@@ -42,7 +48,4 @@ Le Moigne, F., Henson, S., **Cavan, E**. et al. 2016. What causes the inverse re
 
 **Cavan, E**., Le Moigne, F., Poulton, A. et al., 2015, Attenuation of particulate organic carbon flux in the Scotia Sea, Southern Ocean, is controlled by zooplankton fecal pellets, [_Geophysical Research Letters_ 42(3)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2014GL062744)
 
-## Accepted
-
-Belcher, A., **Cavan, E.**, Tarling, G. Why krill swarms are important to the carbon cycle and global climate. _Frontiers for young minds_.
 
