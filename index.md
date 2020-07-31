@@ -3,7 +3,6 @@ layout: home
 limit: 10
 show_excerpts: true
 entries_layout: grid
-description: "Research on how marine ecosystems, climate change and fishing impact the ocean carbon sink, and promoting Nature based Solutions (NbS) to climate change"
 --
 
 
