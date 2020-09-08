@@ -8,13 +8,13 @@ See [Google Scholar page](https://scholar.google.com/citations?user=q2ufJ5IAAAAJ
 
 ## 2020
 
-Henley, S., **Cavan, E**., Fawcett, S. et al. 2020. Changing biogeochemistry of the Southern Ocean     and its ecosystem implications. [_Frontiers in Marine Science_, RT: Marine Ecosystem Assessment for the Southern Ocean: Meeting the Challenge for Conserving Earth Ecosystems in the Long Term](https://www.frontiersin.org/articles/10.3389/fmars.2020.00581/abstract).
+Brasier, M., McCormack, S., Bax, N., Caccavo, J., **Cavan., E**. et al. 2020. Overcoming the obstacles faced by early career researchers in marine science: lessons from the Marine Ecosystem Assessment of the Southern Ocean. [_Frontiers in Marine Science_, RT: Marine Ecosystem Assessment for the Southern Ocean: Meeting the Challenge for Conserving Earth Ecosystems in the Long Term](https://www.frontiersin.org/articles/10.3389/fmars.2020.00692/full)  
+
+Henley, S., **Cavan, E**., Fawcett, S. et al. 2020. Changing biogeochemistry of the Southern Ocean and its ecosystem implications. [_Frontiers in Marine Science_, RT: Marine Ecosystem Assessment for the Southern Ocean: Meeting the Challenge for Conserving Earth Ecosystems in the Long Term](https://www.frontiersin.org/articles/10.3389/fmars.2020.00581/abstract).
 
 Giering, S. L., **Cavan, E**., Basedow, et al. 2020. Sinking organic particles: what can we learn from optical devices? [_Frontiers in Marine Science_, RT: We Shed Light: Optical Insights into the     Biological Carbon Pump](https://www.frontiersin.org/articles/10.3389/fmars.2019.00834/full)  
 
 ### Accepted
-
-Brasier, M., McCormack, S., Bax, N., Caccavo, J., **Cavan., E**. et al. Overcoming the obstacles faced by early career researchers in marine science: lessons from the Marine Ecosystem Assessment of the Southern Ocean. _Frontiers in Marine Science_
 
 Belcher, A., **Cavan, E.**, Tarling, G. Why krill swarms are important to the carbon cycle and global climate. _Frontiers for young minds_.
 
