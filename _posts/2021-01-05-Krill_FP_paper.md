@@ -14,5 +14,5 @@ This was a small experiment done at the Australian Antarctic Division in Tasmani
 
 <figure>
 <img src="/Images/Krill_FP_microbe_garden.jpg" style="float: right;" width = "300" height = "600" alt="" >
-    <figcaption>Microbial gardening processes made by [Visual Knowledge](https://www.visualknowledge.design/)</figcaption>
+    <figcaption>Microbial gardening processes made by <a href="https://www.visualknowledge.design/">Visual Knowledge</a> </figcaption>
 </figure>
