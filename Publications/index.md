@@ -8,6 +8,8 @@ See [Google Scholar page](https://scholar.google.com/citations?user=q2ufJ5IAAAAJ
 
 ## 2020
 
+**Cavan., E.**, Kawaguchi, S. & Boyd, P. 2020. Implications for the mesopelagic microbial gardening hypothesis as determined by experimental fragmentation of Antarctic krill fecal pellets. [Ecology and Evolution](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.7119)
+
 Halfter, S., **Cavan., E.**, Swaddling, K., Eriksen, R. & Boyd, P.  2020. Overcoming the obstacles faced by early career researchers in marine science: lessons from the Marine Ecosystem Assessment of the Southern Ocean. [_Frontiers in Marine Science_, RT: Integrated Marine Biosphere Research: Ocean Sustainability, Under Global Change, for the Benefit of Society](https://www.frontiersin.org/articles/10.3389/fmars.2020.567917/abstract)  
 
 Belcher, A., **Cavan, E.**, Tarling, G. 2020. Why krill swarms are important to the carbon cycle and global climate. _Frontiers for young minds_.
