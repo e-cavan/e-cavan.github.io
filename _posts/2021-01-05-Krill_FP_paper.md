@@ -4,7 +4,7 @@ title: New paper Microbial gardening on krill faecal pellets experiment
 image: 
     path: /Images/Krill_FP_microbe_garden.png
     thumbnail: /Images/Krill_FP_microbe_garden.png
-        caption: Microbial gardening processes
+    caption: Microbial gardening processes
 ---
 
 New paper out in [Ecology and Evolution](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.7119) showing] how feeding on detritus (krill poo) can stimulate microbial respiration of organic carbon decreasing the ocean carbon sink, whilst simultaneously providing the detritivores (i.e. krill) with essential nutrients.
