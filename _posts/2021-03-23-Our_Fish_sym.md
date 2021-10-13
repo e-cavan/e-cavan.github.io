@@ -2,9 +2,9 @@
 layout: post
 title: Our Fish symposium
 image: 
-    path: /Images/BES_TheNiche_Thumbnail.png
-    thumbnail: /Images/BES_TheNiche_Thumbnail.png
-    caption: testn
+    path: /Images/OUR-FISH-SYMPOSIUM-Green.png
+    thumbnail: /Images/OUR-FISH-SYMPOSIUM-Green.png
+    caption: Symposium logo
 ---
 
 The NGO [Our Fish](https://our.fish/) delivered an online symposium [Delivering on Climate & Biodiversity Targets Through Better Fisheries Management](https://our.fish/news/symposium-delivering-on-climate-biodiversity-targets-through-better-fisheries-management/) in March 2021, to explore how ending overfishing can help realise biodiversity and climate change goals. 
