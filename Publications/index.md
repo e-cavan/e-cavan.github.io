@@ -6,9 +6,15 @@ permalink: /Publications/
 
 See [Google Scholar page](https://scholar.google.com/citations?user=q2ufJ5IAAAAJ&hl=en)
 
-## 2020
+## 2021
+Hill, S., Pinkerton, M., Ballerini, T., **Cavan., E.**, Gurney, L., Martins, I. & Xavier, J. 2021. Robust model-based indicators of regional differences in food-web structure in the Southern Ocean. [Journal of Marine Systems](https://www.sciencedirect.com/science/article/pii/S0924796321000543)
+
+Cael, B., **Cavan., E.**, Britten, G. 2021. Reconciling the size‐dependence of marine particle sinking speed. [Geophysical Research Letters](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020GL091771)
 
 **Cavan., E.**, Kawaguchi, S. & Boyd, P. 2020. Implications for the mesopelagic microbial gardening hypothesis as determined by experimental fragmentation of Antarctic krill fecal pellets. [Ecology and Evolution](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.7119)
+
+
+## 2020
 
 Halfter, S., **Cavan., E.**, Swaddling, K., Eriksen, R. & Boyd, P.  2020. Overcoming the obstacles faced by early career researchers in marine science: lessons from the Marine Ecosystem Assessment of the Southern Ocean. [_Frontiers in Marine Science_, RT: Integrated Marine Biosphere Research: Ocean Sustainability, Under Global Change, for the Benefit of Society](https://www.frontiersin.org/articles/10.3389/fmars.2020.567917/abstract)  
 
