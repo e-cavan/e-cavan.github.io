@@ -2,8 +2,8 @@
 layout: post
 title: Our Fish symposium
 image: 
-    path: /Images/OUR-FISH-SYMPOSIUM-Green.png
-    thumbnail: /Images/OUR-FISH-SYMPOSIUM-Green.png
+    path: /Images/BES_TheNiche_Thumbnail.png
+    thumbnail: /Images/BES_TheNiche_Thumbnail.png
     caption: testn
 ---
 
