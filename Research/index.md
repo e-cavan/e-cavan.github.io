@@ -11,7 +11,7 @@ An [Imperial College Research Fellowship](http://www.imperial.ac.uk/research-fel
 
 <figure>
     <img src="/Images/E2E_krill_white.png" style="float: right;" width = "500" height = "400" alt="" >
-    <figcaption>Schematic of numerical model structure. (Right adapted from <a href="https://doi.org/10.1016/j.tree.2016.12.003">Blanchard et al 2017</a>)</figcaption>
+    <figcaption>Schematic of numerical model structure. (Adapted from <a href="https://doi.org/10.1016/j.tree.2016.12.003">Blanchard et al 2017</a>)</figcaption>
 </figure>
 
 - Ocean nutrient concentration as well as sea temperatures are projected to change under warming scenarios
