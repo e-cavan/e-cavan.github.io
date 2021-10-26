@@ -32,8 +32,3 @@ An [Imperial College Research Fellowship](http://www.imperial.ac.uk/research-fel
 - Zooplankton consume phytoplankton and release faecal pellets (poo!) also full of carbon. These can sink quickly to the bottom of the ocean
 - Both dead phyto- and zooplankton feacal pellets sink huge amounts of carbon to the deep ocean globally every year. Different oceans sink different amounts of carbon and as biology is complex it can be difficult to describe these processes in climate models
 - Much of my work in this area focusses on what drives the carbon sink in different reions and how this may be affected by climate change
-
-## Disturbances to microbial community assembly
-- The type of community that persists regulates ecosystem function, such as the amount of carbon stored and released from an ecosystem
-- Climate change and other disturbances such as chemical pollution create new environmental conditions in certain regions, which may cause communities to collapse and then re-assemble in response
-- This project looks at how it long takes until a community becomes stable and what functional group will dominate using numerical model simulations
