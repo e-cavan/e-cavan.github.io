@@ -7,11 +7,17 @@ permalink: /Publications/
 See [Google Scholar page](https://scholar.google.com/citations?user=q2ufJ5IAAAAJ&hl=en)
 
 ## 2021
+**Cavan, E.** & Hill, S. 2021. Commercial fishery disturbance of the global ocean biological carbon sink. [Global Change Biology.](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.16019)
+
+Halfter, S., **Cavan, E.**, Butterworth, P., Swadling, K. & Boyd, P. 2021. `Sinking dead’ – How     zooplankton carcasses contribute to Particulate Organic Carbon flux in the subantarctic Southern Ocean. [Limnology and Oceanography](https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lno.11971)
+
+Folkard-Tapp. H., Banks-Leite, C. & **Cavan. E.** 2021. Nature-based Solutions to tackle climate     change and restore biodiversity. [Journal of Applied Ecology, Special Feature editorial](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2664.14059)
+
 Hill, S., Pinkerton, M., Ballerini, T., **Cavan., E.**, Gurney, L., Martins, I. & Xavier, J. 2021. Robust model-based indicators of regional differences in food-web structure in the Southern Ocean. [Journal of Marine Systems](https://www.sciencedirect.com/science/article/pii/S0924796321000543)
 
 Cael, B., **Cavan., E.**, Britten, G. 2021. Reconciling the size‐dependence of marine particle sinking speed. [Geophysical Research Letters](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020GL091771)
 
-**Cavan., E.**, Kawaguchi, S. & Boyd, P. 2020. Implications for the mesopelagic microbial gardening hypothesis as determined by experimental fragmentation of Antarctic krill fecal pellets. [Ecology and Evolution](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.7119)
+**Cavan., E.**, Kawaguchi, S. & Boyd, P. 2021. Implications for the mesopelagic microbial gardening hypothesis as determined by experimental fragmentation of Antarctic krill fecal pellets. [Ecology and Evolution](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.7119)
 
 
 ## 2020
