@@ -6,11 +6,17 @@ permalink: /Publications/
 
 See [Google Scholar page](https://scholar.google.com/citations?user=q2ufJ5IAAAAJ&hl=en)
 
+## 2022
+
+Henson, S., Laufkötter, C.,Leung, S., Giering, S., Palevsky, H. & **Cavan, E.** 2022. Uncertain response of ocean biological carbon export in a changing world. [Nature Geoscience](https://www.nature.com/articles/s41561-022-00927-0)
+
+**Cavan, E.** & Hill, S. 2022. Commercial fishery disturbance of the global ocean biological carbon sink. [Global Change Biology.](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.16019)
+
+Ward, D., Melbourne-Thomas, J.,Pecl, G...**Cavan, E.,** et al. 2022. Safeguarding marine life: conservation of biodiversity and ecosystems. [Reviews in Fish Biology and Fisheries](https://link.springer.com/article/10.1007/s11160-022-09700-3)
+
+Halfter, S., **Cavan, E.**, Butterworth, P., Swadling, K. & Boyd, P. 2021. `Sinking dead’ – How zooplankton carcasses contribute to Particulate Organic Carbon flux in the subantarctic Southern Ocean. [Limnology and Oceanography](https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lno.11971)
+
 ## 2021
-**Cavan, E.** & Hill, S. 2021. Commercial fishery disturbance of the global ocean biological carbon sink. [Global Change Biology.](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.16019)
-
-Halfter, S., **Cavan, E.**, Butterworth, P., Swadling, K. & Boyd, P. 2021. `Sinking dead’ – How     zooplankton carcasses contribute to Particulate Organic Carbon flux in the subantarctic Southern Ocean. [Limnology and Oceanography](https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lno.11971)
-
 Folkard-Tapp. H., Banks-Leite, C. & **Cavan. E.** 2021. Nature-based Solutions to tackle climate     change and restore biodiversity. [Journal of Applied Ecology, Special Feature editorial](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2664.14059)
 
 Hill, S., Pinkerton, M., Ballerini, T., **Cavan., E.**, Gurney, L., Martins, I. & Xavier, J. 2021. Robust model-based indicators of regional differences in food-web structure in the Southern Ocean. [Journal of Marine Systems](https://www.sciencedirect.com/science/article/pii/S0924796321000543)
