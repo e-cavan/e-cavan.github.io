@@ -10,7 +10,7 @@ A [WWF](https://www.wwf.org.uk/)-funded project
 
 <figure>
     <img src="/Images/Krill_C.png" style="float: right;" width = "500" height = "400" alt="" >
-    <figcaption>Krill life history traits which contribute to carbon sinks. Published in Cavan et al <a href="https://www.nature.com/articles/s41467-019-12668-7">2019</a>)</figcaption>
+    <figcaption>Krill life history traits which contribute to carbon sinks. Published in Cavan et al <a href="https://www.nature.com/articles/s41467-019-12668-7">2019</a></figcaption>
 </figure>
 
 This is a 3-year project (2022-2025) funded by WWF with the aim to increase knowledge on how krill and salps contribute to carbon (C) sequestration. Through new experiments at the [Australian Antarctic Division](https://www.antarctica.gov.au/science/conservation-and-management-research/southern-ocean-fisheries/krill/antarctic-marine-research-aquarium/) on Antarctic krill, including pellet and carcass sinking rates and microbial turnover rates, we will get more data to on krill life-history traits and their contribution to C export. Combining these new rates with those from the literature, also on salps, will allow us to more accurately calculate carbon fluxes in the Atlantic Sector of the Southern Ocean. This area is subjected to pressures from krill fishing and climate change which are changing ecosystem structure, and therefore likely biology carbon sinks. Anona Griffiths has joined the team as a Research Assistant to lead this work, having finished her Masters at Imperial in September 2022.
