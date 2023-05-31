@@ -6,6 +6,10 @@ permalink: /Publications/
 
 See [Google Scholar page](https://scholar.google.com/citations?user=q2ufJ5IAAAAJ&hl=en)
 
+## 2023
+
+Dithugoe, C., Bezuidt, O., **Cavan, E.**, Froneman, W., Thomalla, S. & Makhalanyane, T. 2023. Bacteria and Archaea Regulate Particulate Organic Matter Export in Suspended and Sinking Marine Particle Fractions. [Msphere](https://journals.asm.org/doi/10.1128/msphere.00420-22).
+
 ## 2022
 
 Henson, S., Laufkötter, C.,Leung, S., Giering, S., Palevsky, H. & **Cavan, E.** 2022. Uncertain response of ocean biological carbon export in a changing world. [Nature Geoscience](https://www.nature.com/articles/s41561-022-00927-0)
