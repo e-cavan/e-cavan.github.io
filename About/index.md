@@ -4,7 +4,7 @@ title: About
 permalink: /About/
 ---
 
-#Dr Emma Cavan
+# Dr Emma Cavan
 
 <figure>
     <img src="/Images/profile_pic.jpg" style="float: right;" width = "300" height = "300" alt="" >
@@ -20,10 +20,12 @@ Emma's research focusses on how **climate change** and **fishing** impact the **
 - Role of climate change in disrupting ocean nutrients and lower trophic levels, and how this impacts whole food webs and fishery catch potential
 - Emma has particular expertise in the Southern Ocean and Antarctica, particularly krill!
 
+
+
 # Group members
 
 ## Anona Griffiths
-Anona is a Research Assistant, primarily working on the [WWF krill and salp project](https://e-cavan.github.io/Research/). Her role includes laboratory work on Antarctic krill at the Australian Antarctic Division and spatially calculating krill and salp carbon flux across the Southern Ocean. 
+Anona is a Research Assistant, primarily working on the [WWF krill and salp project](https://e-cavan.github.io/Research/). Her role includes laboratory work on Antarctic krill at the Australian Antarctic Division and spatially calculating krill and salp carbon flux across the Southern Ocean. Anona originally joined the group as a Masters student in 2021-2022, before starting her Research Assistant role early 2023.
 
 <figure>
 <img src="/Images//Anona_profile.png" style="float: right;" width = "300" height = "600" alt="" >
