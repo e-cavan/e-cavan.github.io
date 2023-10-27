@@ -8,9 +8,9 @@ See [Google Scholar page](https://scholar.google.com/citations?user=q2ufJ5IAAAAJ
 
 ## 2023
 
-Kawaguchi, S Atkinson, A., Bahlburg, D., Bernard, K., Cavan, E, Cox, N., Hill, S., Meyer, B. & Veytia, D. Accepted. Impacts of climate change on Antarctic krill behaviour and population dynamics. Nature Reviews Earth and Environment.
+Kawaguchi, S Atkinson, A., Bahlburg, D., Bernard, K., **Cavan, E**, Cox, N., Hill, S., Meyer, B. & Veytia, D. Accepted. Impacts of climate change on Antarctic krill behaviour and population dynamics. Nature Reviews Earth and Environment.
 
-Laurenceau-Cornec, E. C., Mongin, M., Trull, T. W., Bressac, M., Cavan, E. L., Bach, L. T., et al. (2023). Concepts toward a global mechanistic mapping of ocean carbon export. [Global Biogeochemical Cycles, 37.](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023GB007742)
+Laurenceau-Cornec, E. C., Mongin, M., Trull, T. W., Bressac, M., **Cavan, E. L.**, Bach, L. T., et al. (2023). Concepts toward a global mechanistic mapping of ocean carbon export. [Global Biogeochemical Cycles, 37.](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023GB007742)
 
 Dithugoe, C., Bezuidt, O., **Cavan, E.**, Froneman, W., Thomalla, S. & Makhalanyane, T. 2023. Bacteria and Archaea Regulate Particulate Organic Matter Export in Suspended and Sinking Marine Particle Fractions. [Msphere](https://journals.asm.org/doi/10.1128/msphere.00420-22).
 
