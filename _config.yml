@@ -79,6 +79,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-target-blank
 
 # Front Matter Defaults
 defaults:
