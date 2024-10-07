@@ -24,20 +24,6 @@ Emma's research focusses on how **climate change** and **fishing** impact the **
 
 # Group members
 
-## Anona Griffiths
-
-<figure>
-<img src="/Images/Anona_profile.png" style="float: right;" width = "150" height = "300" alt="" >
-</figure>
-
-Anona is a Research Assistant, primarily working on the [WWF krill and salp project](https://e-cavan.github.io/Research/). Her role includes laboratory work on Antarctic krill at the Australian Antarctic Division and spatially calculating krill and salp carbon flux across the Southern Ocean. Anona originally joined the group as a Masters student in 2021-2022, before starting her Research Assistant role early 2023.
-
-<br>
-<br>
-<br>
-<br>
-
-
 ## Dr Cordelia Roberts
 
 <figure>
@@ -55,3 +41,19 @@ Cordelia joins Emma’s group as part of the [NERC funded BIO-Carbon project PAR
 - Polar Marine Environments
 - Equity, Diversity and Inclusion in Marine Science
 - Science Communication 
+
+
+# Alumni
+
+## Anona Griffiths
+
+<figure>
+<img src="/Images/Anona_profile.png" style="float: right;" width = "150" height = "300" alt="" >
+</figure>
+
+Anona was a Research Assistant, primarily working on the [WWF krill and salp project](https://e-cavan.github.io/Research/). Anona originally joined the group as a Masters student in 2021-2022, before starting her Research Assistant role early 2023, and then leaving to start a PhD at the University of Tasmania in 2024.
+
+<br>
+<br>
+<br>
+<br>
