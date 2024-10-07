@@ -19,7 +19,7 @@ skin: "/assets/css/skins/default.css"
 locale: en-US
 title: "Cavan Lab Group"
 subtitle: "Welcome"
-description: "Research led by Dr Emma Cavan"
+description: "Carbon | Nature | Water | Poo"
 baseurl: # the subpath of your site, e.g. "/blog"
 url: "https://e-cavan.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: /Images/Logo.png # path of site logo, e.g. "/images/logo.png"
