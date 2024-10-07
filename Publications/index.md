@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-permalink: /Publications/
+permalink: #/Publications/
 ---
 
 See [Google Scholar page](https://scholar.google.com/citations?user=q2ufJ5IAAAAJ&hl=en)
