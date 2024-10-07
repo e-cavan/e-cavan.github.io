@@ -7,7 +7,7 @@ description: "Research on how marine ecosystems, climate change and fishing impa
 ---
 
 
-<div style="text-align: center"> Showcasing research on how marine ecosystems, climate change and fishing impact the ocean carbon sink. Led by Emma Cavan, a research fellow at Imperial College London, in collaboration with colleagues and students. </div>
+<div style="text-align: center"> Showcasing research on how marine ecosystems, climate change and fishing impact the ocean carbon sink, led by Emma Cavan at Imperial College London. </div>
 
 
 # News
