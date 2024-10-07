@@ -9,7 +9,8 @@
 - title: Engagement
   url: /Engagement/
 - title: Publications
-  url: (https://scholar.google.com/citations?user=q2ufJ5IAAAAJ&hl=en){target="_blank"}
+  url: https://scholar.google.com/citations?user=q2ufJ5IAAAAJ&hl=en
+  target: _blank
 - title: Contact
   url: /Contact/
 
